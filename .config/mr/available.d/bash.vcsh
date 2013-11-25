@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/bash.git]
-checkout = vcsh clone https://github.com/bawood/bash.git bash
+checkout    = vcsh clone https://github.com/bawood/bash.git bash
+push	    = vcsh bash push origin master
